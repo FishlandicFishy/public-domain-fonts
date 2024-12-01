@@ -1,5 +1,5 @@
 # 32px CJK Fonts
 
-| Font | Source | Link | Derivative? |
-| --- | --- | --- | --- |
-| j83-32 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese.BIG | / |
+| Font | Type | Source | Link | Derivative? |
+| --- | -- | --- | --- | --- |
+| j83-32 | Song | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese.BIG | / |
