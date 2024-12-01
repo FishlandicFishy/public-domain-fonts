@@ -2,7 +2,7 @@
 name: Font not in public domain
 about: A font is not in the public domain
 title: Font not in public domain
-labels: ''
+labels: non-pd
 assignees: FishlandicFishy
 
 ---
