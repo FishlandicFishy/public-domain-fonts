@@ -9,3 +9,8 @@
 * cns40, from `cjk-fonts` and formerly in `gnu-intlfonts`, uses unclear licensing.
 * hanja65, from `cjk-fonts`, [possibly derives from a version of hLaTeX](https://ctan.org/pkg/cjk-fonts) which [may not be under the public domain](https://ctan.org/pkg/hlatex-fonts).
 * jfs56, from `cjk-fonts`, comes from an unknown source (possibly CCDOS). [Debian assumes that it is under the public domain](https://sources.debian.org/src/hbf-jfs56/1.0-3.2/debian/copyright/) but I doubt it.
+
+# Other Relevant Notes
+
+* `cjk-fonts` on CTAN claims to be fully public domain, but this claim cannot be verified for all included fonts.
+* `gnu-intlfonts` is a collection of libre fonts, but they are not necessarily in the public domain.
