@@ -12,5 +12,5 @@
 
 # Other Relevant Notes
 
-* `cjk-fonts` on CTAN claims to be fully public domain, but this claim cannot be verified for all included fonts.
+* `cjk-fonts` on CTAN claims to be fully public domain, but this claim cannot be verified for all included fonts, and some fonts are blatantly not in the public domain (see ntukai48).
 * `gnu-intlfonts` is a collection of libre fonts, but they are not necessarily in the public domain.
