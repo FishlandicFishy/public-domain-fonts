@@ -1,7 +1,7 @@
 # What is NOT Public Domain
 
 * ntukai48, from `cjk-fonts`, mentions "These fonts must not be used for any commercial activities."
-* j83-32 and j83-48, though from `gnu-intlfonts`, [are actually derived from Watanabe](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html) which is known for plagiarising the proprietary font TypeBank Mincho-M. The newer version in `gnu-intlfonts` consists of merely an upscaled jiskan16 and an upscaled jiskan24 with no other difference.
+* Older versions of j83-32 and j83-48 from `gnu-intlfonts` [are actually derived from Watanabe](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html) which is known for plagiarising the proprietary font TypeBank Mincho-M. The newer version in `gnu-intlfonts` consists of merely an upscaled jiskan16 and an upscaled jiskan24 with no other difference.
 * Though the Mona bitmap glyphs are indeed in the public domain, [Mona-outline is based on Kochi-substitute](https://en.wikipedia.org/wiki/Mona_(font)), [which is not in the public domain](https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%A2%A8%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88).
 
 # Uncertainties
