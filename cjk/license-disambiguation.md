@@ -1,4 +1,7 @@
 # License Disambiguation
+
+*Disclaimer: GitHub might have misinterpreted this file as a license. This is not a license and merely disambiguates the legal status of some fonts and reasons for not including them.*
+
 ## What is NOT Public Domain
 
 * ntukai48, from `cjk-fonts`, mentions "These fonts must not be used for any commercial activities."
