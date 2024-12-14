@@ -5,8 +5,6 @@
 | guob16 | G | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Chinese | / |
 | izmg16-2004-1 | J | [Link](http://izumilib.web.fc2.com/izumi-bf/dl-eng.html) | jiskan16 | / |
 | izmg16-2004-2 | J | [Link](http://izumilib.web.fc2.com/izumi-bf/dl-eng.html) | jiskan16 | / |
-| j00-1-16 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese | / |
-| j00-2-16 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese | / |
 | j78-16 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese | / |
 | j90-16 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese | jiskan16 |
 | jiskan16 | J | [Archive](https://web.archive.org/web/20100218022211/http://www12.ocn.ne.jp/~imamura/jisx0213.html) | / |
