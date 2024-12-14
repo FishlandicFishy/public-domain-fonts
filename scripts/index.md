@@ -1,1 +1,1 @@
-
+These are public domain scripts related to fonts. Most of them only work on bitmap fonts. I do not know how some of them work.
