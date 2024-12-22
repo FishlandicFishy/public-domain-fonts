@@ -1,3 +1,5 @@
+[繁體中文](README-zhT.md) | [简体中文](README-zhS.md)
+
 # Public Domain Fonts
 
 This repository mainly focuses on public domain CJK fonts and (nearly) pan-Unicode fonts.
