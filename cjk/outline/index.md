@@ -9,3 +9,5 @@
 \*: These are relatively low quality scans; some glyphs appear to be bitmap and not smoothed out, but some are smoothed out
 
 #: Some glyphs in Huiwen Mincho and Oradano Mincho are identical
+
+Note also that Oradano Mincho incorrectly uses the glyph for 儘 for the codepoint 侭.
