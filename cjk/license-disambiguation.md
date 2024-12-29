@@ -13,9 +13,9 @@
 * cns40, from `cjk-fonts` and formerly in `gnu-intlfonts`, uses unclear licensing.
 * hanja65, from `cjk-fonts`, [possibly derives from a version of hLaTeX](https://ctan.org/pkg/cjk-fonts). It is unclear which version of hLaTeX `cjk-fonts` is talking about but the one I am aware of [is not under the public domain](https://ctan.org/pkg/hlatex-fonts).
 * jfs56, from `cjk-fonts`, comes from an unknown source (possibly CCDOS). [Debian assumes that it is under the public domain](https://sources.debian.org/src/hbf-jfs56/1.0-3.2/debian/copyright/) but I doubt it.
+* Planschrift states that its license is the same as Huiwen-mincho "本字体的授权协议与原字体保持一致", though "public domain" is never mentioned.
 
 ## Other Relevant Notes
 
 * `cjk-fonts` on CTAN claims to be fully public domain, but this claim cannot be verified for all included fonts, and some fonts are blatantly not in the public domain (see ntukai48).
 * `gnu-intlfonts` is a collection of libre fonts, but they are not necessarily in the public domain.
-* Planschrift states that its license is the same as Huiwen-mincho "本字体的授权协议与原字体保持一致", though "public domain" is never mentioned.
