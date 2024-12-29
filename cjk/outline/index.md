@@ -10,4 +10,4 @@
 
 #: Some glyphs in Huiwen Mincho and Oradano Mincho are identical
 
-Note also that Oradano Mincho incorrectly uses the glyph for 儘 for the codepoint 侭 and incorrectly maps 厓 to U+FA55 突.
+Note also that Oradano Mincho incorrectly uses the glyph for 儘 for 侭 and 厓 for U+FA55 突.
