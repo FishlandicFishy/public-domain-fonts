@@ -11,7 +11,7 @@
 ## 非公开领域
 
 * ntukai48 是 `cjk-fonts` 的字体，但写明 "These fonts must not be used for any commercial activities."
-* 从 `gnu-intlfonts` 较旧版本的 j83-32 和 j83-48 [其实源于渡边字体](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2. 1-slfo.1.1.2.noarch.html)，抄袭TypeBank Mincho-M；而较新的版本只是提高像素的jiskan16 和jiskan24，没有其他改变。
+* 从 `gnu-intlfonts` 较旧版本的 j83-32 和 j83-48 [其实源于渡边字体](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html)，抄袭TypeBank Mincho-M；而较新的版本只是提高像素的jiskan16 和jiskan24，没有其他改变。
 * Mona 的像素字确实是公开领域，但[Mona-outline 基于Kochi-substitute](https://en.wikipedia.org/wiki/Mona_(font))，[而它并非开领域](https:/ /ja.wikipedia.org/wiki/%E6%9D%B1%E9%A2%A8%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)。
 * 汇文字体虽提及 "Public Domain"，但猫啃网上较长的授权声明不允许第三方收费提供或分发。
 
