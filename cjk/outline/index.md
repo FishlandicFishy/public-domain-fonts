@@ -2,7 +2,7 @@
 
 | Font | Type | Source | Link | Derivative? |
 | --- | -- | --- | --- | --- |
-| Huiwen Mincho\* | Song | Mostly G and KX | [supposed "main page" on Zhihu, login-locked](https://zhuanlan.zhihu.com/p/344103391), [Maoken, all options very slow](https://www.maoken.com/freefonts/9288.html), (probably unofficial) <https://www.zitijia.com/i/338332647849741369.html> | Han reform documents from the 50s to the 60s "五六十年代官方各种汉字改革文件" |
+| Huiwen Mincho\* | Song | Mostly G and KX | [Zhihu, login-locked](https://zhuanlan.zhihu.com/p/344103391), [Maoken, slow](https://www.maoken.com/freefonts/9288.html), (probably unofficial) <https://www.zitijia.com/i/338332647849741369.html> | Official Han reform documents throughout the 50s and the 60s "五六十年代官方各种汉字改革文件" |
 | Jigmo | Song | J | <https://kamichikoichi.github.io/jigmo/> | GlyphWiki glyphs |
 | Oradano Mincho\* | Song | J | <https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/> | Mostly "築地三号活字" found in dictionaries |
 
