@@ -10,6 +10,18 @@ I own none of these fonts and scripts, however they are all confirmed to be in t
 
 If something here is not in the public domain (or not public domain-equivalent), please create an issue.
 
+## Public Domain-Equivalent Licenses
+
+This list is not exhaustive.
+
+* [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* [0BSD](https://opensource.org/license/0bsd)
+* [MIT-0](https://opensource.org/license/mit-0)
+* [WTFPL](http://www.wtfpl.net/txt/copying/)
+* [Unlicense](https://unlicense.org/)
+* [mplus Font License](https://spdx.org/licenses/mplus.html)
+  * Terms are nearly identical to other public domain-equivalent licenses like 0BSD, so I'd assume it's also public domain-equivalent
+
 ## What is NOT Public Domain
 
 * ntukai48, from `cjk-fonts`, mentions "These fonts must not be used for any commercial activities."
