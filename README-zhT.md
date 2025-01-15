@@ -8,6 +8,18 @@
 
 倘如此儲存庫中涉及任何非公開領域的字體或編碼，請建立議題（Issue）。
 
+## 與公開領域相等的授權
+
+此列表並不詳盡。
+
+* [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+* [0BSD](https://opensource.org/license/0bsd)
+* [MIT-0](https://opensource.org/license/mit-0)
+* [WTFPL](http://www.wtfpl.net/txt/copying/)
+* [Unlicense](https://unlicense.org/)
+* [mplus Font License](https://spdx.org/licenses/mplus.html)
+  * 條件與其他與公開領域相等的授權（例0BSD）幾乎相等，所以此授權應與公開領域相等
+
 ## 非公開領域
 
 * ntukai48 是 `cjk-fonts` 的字體，但寫明 "These fonts must not be used for any commercial activities."
