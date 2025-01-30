@@ -5,4 +5,4 @@
 (that I'm too lazy to put here)
 
 * [SaitamaarFont](https://github.com/asciiart-development/SaitamaarFont)
-* [Sophora](https://github.com/MihailJP/Sophora)
+* [Sophora](https://github.com/MihailJP/Sophora): too big of a file
