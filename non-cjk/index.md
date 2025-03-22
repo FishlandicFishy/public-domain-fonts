@@ -1,6 +1,6 @@
 # Non-CJK Fonts
 
-| Font  | Link | License | Derivative? |
-| --- | -- | --- | --- |
-| Tuffy | / | PD | / |
-| Quivira | <http://www.quivira-font.com/> | PD | / |
+| Font | Type | Link | License | Derivative? |
+| --- | --- | --- | --- | --- |
+| Tuffy | Sans | / | PD | / |
+| Quivira | Serif | <http://www.quivira-font.com/> | PD | / |
