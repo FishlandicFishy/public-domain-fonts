@@ -30,6 +30,7 @@ This list is not exhaustive.
 * Though the Huiwen font files state "Public Domain", the longer license summary on Maoken states that the fonts cannot be resold nor reuploaded for commercial purposes. The license of Huiwen fonts is actually equivalent to the OFL; this was proven by the creator of the fonts, and is reflected via CooperZhengKai and Planschrift.
 * All et- and taipei- fonts are not in the public domain, contrary to the "Public Domain" statement in the fonts themselves. This includes taipei16, taipei24, and taipei(k,l,m)24, all of which are previously thought to be in the public domain.
   * "Redistributing fonts file of taipei\* and et\* is prohibited. All taipei\* and et\* are protected by copyright law so any commerical use is also prohibited." Source: <https://www.ibiblio.org/pub/packages/ccic/software/fonts/big5/bdf/etenb5.ftpsite>
+* The CMEX Big5+ (a.k.a. big5p or cmex24m.bdf) fonts are licensed under MIT, despite the files saying "Public Domain".
 
 ## Uncertainties
 
