@@ -1,4 +1,4 @@
-These encodings are intended for use in FontForge. Only public domain encodings are included.
+These encodings are intended for use in FontForge. Only public domain encoding files are included. Format of encodings may be edited for ease of use.
 
 | Name | Chinese Name | Source |
 | --- | --- | --- |
