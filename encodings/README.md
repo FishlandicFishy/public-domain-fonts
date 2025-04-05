@@ -6,3 +6,5 @@ These encodings are intended for use in FontForge. Only public domain encoding f
 | [big5p (Big5+)](https://en.wikipedia.org/wiki/Big5#Big5+) | 五大碼加強 | T/U | <https://github.com/chinese-opendesktop/cin-tables/blob/master/big5p.cin> |
 
 For other **non-public domain** encoding files, you may refer to <https://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/> for CJK encodings and <https://www.unicode.org/Public/MAPPINGS/> for other encodings.
+
+Note that FontForge does NOT save CJK encodings properly, so it is advised to name such encodings **with a space included** to stop FontForge from saving them and to avoid confusion.
