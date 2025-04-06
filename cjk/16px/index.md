@@ -11,4 +11,4 @@
 | jksp16 | J | [gnu-intlfonts](https://ftp.gnu.org/gnu/intlfonts/) -> Japanese | / |
 | kcchin16 | T | [Link](https://sources.debian.org/src/chdrvfont/) | / |
 | shnmk16 (Shinonome) | J | <http://openlab.ring.gr.jp/efont/shinonome/> | jiskan16 |
-| uni16m | / | [Link](https://www.ibiblio.org/pub/packages/ccic/software/fonts/unicode/bdf/) | CCLIB16.FS, (HKU) chinese.16, Jming16, hanglm16; copyright status of some fonts unclear |
+| uni16m | / | [Link](https://www.ibiblio.org/pub/packages/ccic/software/fonts/unicode/bdf/) | CCLIB16.FS, (HKU) chinese.16, Jming16, hanglm16 |
