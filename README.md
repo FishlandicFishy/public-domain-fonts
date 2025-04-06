@@ -1,6 +1,6 @@
 In case of ambiguities, the English version prevails.
 
-[繁體中文](README-zhT.md) | [简体中文](README-zhS.md)
+~~[繁體中文](README-zhT.md) | [简体中文](README-zhS.md)~~ (severely outdated)
 
 # Public Domain Fonts
 
