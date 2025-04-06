@@ -31,13 +31,12 @@ This list is not exhaustive.
 * All et- and taipei- fonts are not in the public domain, contrary to the "Public Domain" statement in the fonts themselves. This includes taipei16, taipei24, and taipei(k,l,m)24, all of which are previously thought to be in the public domain.
   * "Redistributing fonts file of taipei\* and et\* is prohibited. All taipei\* and et\* are protected by copyright law so any commerical use is also prohibited." Source: <https://www.ibiblio.org/pub/packages/ccic/software/fonts/big5/bdf/etenb5.ftpsite>
 * The CMEX Big5+ (a.k.a. big5p or cmex24m.bdf) fonts are licensed under MIT, despite the files saying "Public Domain".
+* hanja65, from `cjk-fonts`, [derives from HLaTeX-0.92e](https://ctan.org/pkg/cjk-fonts), which [is not under the public domain](https://ctan.org/pkg/hlatex-fonts).
+* cns40 (and its 24px variant), from `cjk-fonts` and formerly in `gnu-intlfonts`, is probably licensed under the Open Government Data License.
 
 ## Uncertainties
 
-* cns40, from `cjk-fonts` and formerly in `gnu-intlfonts`, uses unclear licensing.
-* hanja65, from `cjk-fonts`, [possibly derives from a version of hLaTeX](https://ctan.org/pkg/cjk-fonts). It is unclear which version of hLaTeX `cjk-fonts` is talking about but the one I am aware of [is not under the public domain](https://ctan.org/pkg/hlatex-fonts).
 * jfs56, from `cjk-fonts`, comes from an unknown source (possibly CCDOS). [Debian assumes that it is under the public domain](https://sources.debian.org/src/hbf-jfs56/1.0-3.2/debian/copyright/) but I doubt it.
-* kanji48 from `cjk-fonts`, a.k.a. older versions of j83-48 from `gnu-intlfonts`, [is derived from the LABO system just like infringing j83-32](https://web.archive.org/web/20080920110120/http://kappa.allnet.ne.jp/20dot.fonts/) but it is only known that j83-32 is a result of plagiarism, and not kanji48.
 
 ## Other Relevant Notes
 
