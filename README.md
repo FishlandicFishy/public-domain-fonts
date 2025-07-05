@@ -25,9 +25,9 @@ This list is not exhaustive.
 ## What is NOT Public Domain
 
 * ntukai48, from `cjk-fonts`, mentions "These fonts must not be used for any commercial activities."
-* Older versions of j83-32 from `gnu-intlfonts` [are actually derived from Watanabe](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html) which is known for plagiarising the proprietary font TypeBank Mincho-M. The newer version in `gnu-intlfonts` consists of merely an upscaled jiskan16 and an upscaled jiskan24 with no other difference.
+* Older versions of j83-32 from `gnu-intlfonts` [are actually derived from Watanabe](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html) which is known for plagiarising the proprietary font TypeBank Mincho-M. The newer versions of j83-32 and j83-48 in `gnu-intlfonts` consists of merely an upscaled jiskan16 and an upscaled jiskan24 with no other difference. (The older versions of j83-48 is assumed to be from JIS, so it is kept here.)
 * Though the Mona bitmap glyphs are indeed in the public domain, [Mona-outline is based on Kochi-substitute](https://en.wikipedia.org/wiki/Mona_(font)), [which is not in the public domain](https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%A2%A8%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88).
-* Though the Huiwen font files state "Public Domain", the longer license summary on Maoken states that the fonts cannot be resold nor reuploaded for commercial purposes. The license of Huiwen fonts is actually equivalent to the OFL; this was proven by the creator of the fonts, and is reflected via CooperZhengKai and Planschrift.
+* Though the Huiwen Mincho font file states "Public Domain", the longer license summary on Maoken states that the fonts cannot be resold nor reuploaded for commercial purposes. The license of Huiwen fonts is actually equivalent to the OFL; this was proven by the creator of the fonts, and is reflected via CooperZhengKai and Planschrift.
 * All et- and taipei- fonts are not in the public domain, contrary to the "Public Domain" statement in the fonts themselves. This includes taipei16, taipei24, and taipei(k,l,m)24, all of which are previously thought to be in the public domain.
   * "Redistributing fonts file of taipei\* and et\* is prohibited. All taipei\* and et\* are protected by copyright law so any commerical use is also prohibited." Source: <https://www.ibiblio.org/pub/packages/ccic/software/fonts/big5/bdf/etenb5.ftpsite>
 * The CMEX Big5+ (a.k.a. big5p or cmex24m.bdf) fonts are licensed under MIT, despite the files saying "Public Domain".
@@ -36,7 +36,7 @@ This list is not exhaustive.
 
 ## Uncertainties
 
-* jfs56, from `cjk-fonts`, comes from an unknown source (possibly CCDOS). [Debian assumes that it is under the public domain](https://sources.debian.org/src/hbf-jfs56/1.0-3.2/debian/copyright/) but I doubt it.
+See `dubious`.
 
 ## Other Relevant Notes
 
