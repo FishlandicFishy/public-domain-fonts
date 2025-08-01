@@ -6,3 +6,4 @@
 
 * [SaitamaarFont](https://github.com/asciiart-development/SaitamaarFont)
 * [Sophora](https://github.com/MihailJP/Sophora): too big of a file
+* [LorchinSans](https://github.com/Losketch/LorchinSans) (formerly OFL-licensed)
