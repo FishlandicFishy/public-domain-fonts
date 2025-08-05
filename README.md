@@ -32,6 +32,7 @@ This list is not exhaustive.
 * The CMEX Big5+ (a.k.a. big5p or cmex24m.bdf) fonts are licensed under MIT, despite the files saying "Public Domain".
 * hanja65, from `cjk-fonts`, [derives from HLaTeX-0.92e](https://ctan.org/pkg/cjk-fonts), which [is not under the public domain](https://ctan.org/pkg/hlatex-fonts).
 * cns40 (and its 24px variant), from `cjk-fonts` and formerly in `gnu-intlfonts`, is probably licensed under the Open Government Data License.
+* The Mona font uses outlines from the Wadalab fonts, which are licensed under the 3-clause BSD license.
 
 ## Uncertainties
 
