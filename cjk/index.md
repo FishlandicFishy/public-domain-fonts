@@ -4,6 +4,6 @@
 
 (that I'm too lazy to put here)
 
-* [SaitamaarFont](https://github.com/asciiart-development/SaitamaarFont)
+* [SaitamaarFont](https://github.com/asciiart-development/SaitamaarFont) (listed as OFL to fulfil Google Fonts requirements, but formerly in the public domain)
 * [Sophora](https://github.com/MihailJP/Sophora): too big of a file
 * [LorchinSans](https://github.com/Losketch/LorchinSans) (formerly OFL-licensed, now licensed under the WTFPL)
