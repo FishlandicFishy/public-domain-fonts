@@ -3,7 +3,6 @@
 | Font | Type | Source | Link | License | Derivative? |
 | --- | -- | --- | --- | --- | --- |
 | Hori | Song | J |  | CC0 | jiskan48/Kanji48 |
-| Jigmo | Song | J | <https://kamichikoichi.github.io/jigmo/> | GlyphWiki | GlyphWiki glyphs |
 | M+ Fonts (older versions only) | Gothic | J | <https://osdn.net/projects/mplus-fonts/> | mplus | / |
 | Oradano Mincho\* | Song | J | <https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/> | PD | Mostly "築地三号活字" found in dictionaries |
 | UmeGothic | Gothic | J | <https://osdn.net/projects/ume-font/> | mplus | / |
