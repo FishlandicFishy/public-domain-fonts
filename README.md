@@ -6,9 +6,9 @@ In case of ambiguities, the English version prevails.
 
 This repository mainly focuses on public domain CJK fonts and (nearly) pan-Unicode fonts.
 
-I own none of these fonts and scripts, however they are all confirmed to be in the public domain (or public domain-equivalent).
+I own none of these fonts and scripts, however they are all confirmed to be dedicated to the public domain.
 
-If something here is not in the public domain (or not public domain-equivalent), please create an issue.
+If something here is not in the public domain, please create an issue.
 
 ## Public Domain-Equivalent Licenses
 
@@ -20,7 +20,6 @@ This list is not exhaustive.
 * [WTFPL](http://www.wtfpl.net/txt/copying/)
 * [Unlicense](https://unlicense.org/)
 * [mplus Font License](https://spdx.org/licenses/mplus.html)
-  * Terms are nearly identical to other public domain-equivalent licenses like 0BSD, so I'd assume it's also public domain-equivalent
 
 ## What is NOT Public Domain
 
