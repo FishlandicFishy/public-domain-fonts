@@ -2,6 +2,7 @@
 
 | Font | Type | Source | Link | License | Derivative? |
 | --- | -- | --- | --- | --- | --- |
+| Ainote | Handwriting | J | <https://booth.pm/ja/items/7551371> | CC0 | Created using [FontDrawer (writemyfont)](https://buttaiwan.github.io/writemyfont/) |
 | Hori | Song | J |  | CC0 | jiskan48/Kanji48 |
 | M+ Fonts (older versions only) | Gothic | J | <https://osdn.net/projects/mplus-fonts/> | mplus | / |
 | Oradano Mincho\* | Song | J | <https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/> | PD | Mostly "築地三号活字" found in dictionaries |
