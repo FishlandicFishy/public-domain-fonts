@@ -6,9 +6,9 @@ In case of ambiguities, the English version prevails.
 
 This repository mainly focuses on public domain CJK fonts and (nearly) pan-Unicode fonts.
 
-I own none of these fonts and scripts, however they are all confirmed to be in the public domain (or public domain-equivalent).
+I own none of these fonts and scripts, however they are all confirmed to be dedicated to the public domain.
 
-If something here is not in the public domain (or not public domain-equivalent), please create an issue.
+If something here is not in the public domain, please create an issue.
 
 ## Public Domain-Equivalent Licenses
 
@@ -20,13 +20,13 @@ This list is not exhaustive.
 * [WTFPL](http://www.wtfpl.net/txt/copying/)
 * [Unlicense](https://unlicense.org/)
 * [mplus Font License](https://spdx.org/licenses/mplus.html)
-  * Terms are nearly identical to other public domain-equivalent licenses like 0BSD, so I'd assume it's also public domain-equivalent
 
 ## What is NOT Public Domain
 
 * ntukai48, from `cjk-fonts`, mentions "These fonts must not be used for any commercial activities."
 * Older versions of j83-32 from `gnu-intlfonts` [are actually derived from Watanabe](https://www.rpmfind.net/linux/RPM/opensuse/16.0/noarch/intlfonts-1.2.1-slfo.1.1.2.noarch.html) which is known for plagiarising the proprietary font TypeBank Mincho-M. The newer versions of j83-32 and j83-48 in `gnu-intlfonts` consists of merely an upscaled jiskan16 and an upscaled jiskan24 with no other difference. (The older versions of j83-48 is assumed to be from JIS, so it is kept here.)
-* Though the Huiwen Mincho font file states "Public Domain", the longer license summary on Maoken states that the fonts cannot be resold nor reuploaded for commercial purposes. The license of Huiwen fonts is actually equivalent to the OFL; this was proven by the creator of the fonts, and is reflected via CooperZhengKai and Planschrift.
+* Though a version of the Huiwen Mincho font file states "Public Domain", the longer license summaries on Zhihu and Maoken state that the fonts cannot be resold nor reuploaded for commercial purposes. The license of the Huiwen fonts is actually similar to (and compatible with) the OFL; this was proven by the creator of the fonts, and is reflected via the licenses of CooperZhengKai and Planschrift.
+  * "本字体文件开源且免费商用,禁止第三方在任何平台以任何方式用此字体牟利。如果您用付费方式获得了此字体文件,请找卖家退款"
 * All et- and taipei- fonts are not in the public domain, contrary to the "Public Domain" statement in the fonts themselves. This includes taipei16, taipei24, and taipei(k,l,m)24, all of which are previously thought to be in the public domain.
   * "Redistributing fonts file of taipei\* and et\* is prohibited. All taipei\* and et\* are protected by copyright law so any commerical use is also prohibited." Source: <https://www.ibiblio.org/pub/packages/ccic/software/fonts/big5/bdf/etenb5.ftpsite>
 * The CMEX Big5+ (a.k.a. big5p or cmex24m.bdf) fonts are licensed under MIT, despite the files saying "Public Domain".
