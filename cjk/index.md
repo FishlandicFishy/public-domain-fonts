@@ -1,6 +1,6 @@
 # CJK Fonts
 
-## Other public domain-equivalent fonts available on GitHub
+## Other public domain-equivalent fonts
 
 (that I'm too lazy to put here)
 
