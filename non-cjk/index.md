@@ -2,6 +2,7 @@
 
 | Font | Type | Link | License | Derivative? |
 | --- | --- | --- | --- | --- |
+| APL fonts | Rounded | <https://apl385.com/fonts/index.htm> | PD | / |
 | Canada1500 | Sans | <https://typodermicfonts.com/canada1500/> | PD | Mesmerize |
 | Damase | Serif | [Archive](https://web.archive.org/web/20070130163045/http://www.wazu.jp/downloads/damase_v.2.zip) | PD | ? |
 | Tuffy | Sans | / | PD | / |
